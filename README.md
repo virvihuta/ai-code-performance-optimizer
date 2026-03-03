@@ -145,7 +145,7 @@ load_dotenv(override=True)
 
 ---
 
-## ▶️ Running the Project
+## Running the Project
 
 1. Open `main.ipynb`
 2. Ensure your `.env` file contains your API key
